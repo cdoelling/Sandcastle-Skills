@@ -8,6 +8,7 @@ These are [Claude Code](https://claude.com/claude-code) skills — drop one into
 | Skill | What it does |
 |---|---|
 | [`council`](./council) | Convenes a five-voice deliberation council (Realist, Devil's Advocate, Editor, Optimist, Chair) to pressure-test an idea, plan, or draft before you commit to it. |
+| [`terminal-lights`](./terminal-lights) | Colors your Ghostty terminal background by Claude's state — working, done, or needs your attention — so you can tell sessions apart at a glance. |
 
 Each skill folder has its own README with install steps and usage tips.
 
